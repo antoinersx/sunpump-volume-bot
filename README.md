@@ -2,7 +2,7 @@
 
 An advanced trading bot designed for pumping volume on the Tron network. This tool allows you to automate trading activities, generate volume, and potentially influence token metrics.
 
-**Disclaimer:** This tool is for educational purposes only. Use at your own risk and always comply with local regulations.
+Full video available here: [https://www.youtube.com/watch?v=w-CvNUvh34Q](https://www.youtube.com/watch?v=w-CvNUvh34Q)
 
 ## Features
 
@@ -12,7 +12,9 @@ An advanced trading bot designed for pumping volume on the Tron network. This to
 - Volume generation
 - Configurable trading parameters
 - Support for TRC20 tokens
-- Integration with BullXTron for advanced filtering
+
+  ![Screen Shot 2567-09-05 at 2 34 40 PM](https://github.com/user-attachments/assets/e811f408-9d00-4551-84c8-2b95cd38e302)
+
 
 ## Installation
 
@@ -40,10 +42,6 @@ Interval = 2.5
 [Token]
 ContractAddress = YOUR_TOKEN_ADDRESS_HERE
 
-[Telegram]
-ChannelLink = YOUR_TELEGRAM_CHANNEL_LINK
-```
-
 ## Usage
 
 1. Set up your `config.ini` file with your parameters
@@ -51,6 +49,8 @@ ChannelLink = YOUR_TELEGRAM_CHANNEL_LINK
    ```
    npm run start
    ```
+![Screen Shot 2567-09-05 at 2 35 03 PM](https://github.com/user-attachments/assets/674344a0-817f-4c97-8f36-1f89493f927a)
+
 
 ## Commands
 
@@ -60,11 +60,12 @@ ChannelLink = YOUR_TELEGRAM_CHANNEL_LINK
 - Start buying: `buy`
 - Start selling: `sell`
 - Single large buy: `singlebuy`
+![Screen Shot 2567-09-05 at 2 35 21 PM](https://github.com/user-attachments/assets/f8a1bdf9-f6d1-4876-8570-5dd98462c403)
+
 
 ## Advanced Features
 
-- Integration with BullXTron for filtering (developers holding < 15%, > 22 holders)
-- Customizable market cap settings
+- Customizable single buy and auto settings
 - Ability to run multiple instances for different strategies
 
 ## Support and Full Version
@@ -77,6 +78,5 @@ For assistance and access to the full version with advanced features, join our T
 
 This tool is powerful and can be used for both legitimate and potentially harmful purposes. Always use responsibly and in compliance with all applicable laws and regulations. The developers are not responsible for any misuse or consequences resulting from the use of this tool.
 
-Remember: The blockchain is an open ledger. Use this knowledge wisely and ethically.
 
-Stay handsome and trade responsibly!
+If you want a pump.fun bundler, [check this one](https://github.com/antoinersx/pumpfun-bundler)

@@ -48,8 +48,8 @@ ContractAddress = YOUR_TOKEN_ADDRESS_HERE
 2. Run the bot:
    ```
    npm run start
-   ```
-![Screen Shot 2567-09-05 at 2 35 03 PM](https://github.com/user-attachments/assets/674344a0-817f-4c97-8f36-1f89493f927a)
+ 
+ ![Screen Shot 2567-09-05 at 2 35 21 PM](https://github.com/user-attachments/assets/f8a1bdf9-f6d1-4876-8570-5dd98462c403)
 
 
 ## Commands
@@ -60,7 +60,6 @@ ContractAddress = YOUR_TOKEN_ADDRESS_HERE
 - Start buying: `buy`
 - Start selling: `sell`
 - Single large buy: `singlebuy`
-![Screen Shot 2567-09-05 at 2 35 21 PM](https://github.com/user-attachments/assets/f8a1bdf9-f6d1-4876-8570-5dd98462c403)
 
 
 ## Advanced Features
